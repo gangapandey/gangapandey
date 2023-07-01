@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ganga</h1>
 <h3 align="center">A passionate Web developer.</h3>
 
-- 🌱 I’m currently learning **ASP.NET and many more that interest me.**
 
 - 💞️ I’m looking to collaborate on doing live projects
 
