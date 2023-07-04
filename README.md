@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gangapandey&label=Profile%20views&color=0e75b6&style=flat" alt="gangapandey" /> </p>
 
-- 🌱 I’m currently learning **ASP.NET and many more that interests. me.**
+- 💞️ I’m looking to collaborate on doing live projects.
 
 - 👯 I’m interested in **Web development and UI/UX.**
 
