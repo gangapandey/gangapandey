@@ -3,6 +3,8 @@
 
 
 
+
+
 - 💞️ I’m looking to collaborate on **live projects**
 
 - 👯 I’m interested in **Web development and UI/UX.**
@@ -17,8 +19,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gangapandey&show_icons=true&locale=en&layout=compact" alt="gangapandey" /></p>
 
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gangapandey&show_icons=true&locale=en&layout=compact&theme=algolia" alt="gangapandey" /></p>  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gangapandey&theme=algolia" alt="gangapandey" /></p>
 
