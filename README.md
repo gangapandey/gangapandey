@@ -5,7 +5,7 @@
 
 
 
-- 💞️ I’m looking to collaborate on **live projects**
+- 💞️ I’m looking to collaborate on **live projects.**
 
 - 👯 I’m interested in **Web development and UI/UX.**
 
