@@ -15,9 +15,6 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/gangapandeyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gangapandey/)
 
-# 📊GitHub Stats :
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=gangapandey&theme=radical&hide_border=false)<br/>
 
 
 
