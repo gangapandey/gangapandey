@@ -7,7 +7,7 @@
 
 - 💞️ I’m looking to collaborate on **live projects.**
 
-- 👯 I’m interested in **Web development and UI/UX.**
+- 👯 I’m interested in **Web development.**
 
 - 📫 How to reach me **igangapandey@gmail.com**
 
