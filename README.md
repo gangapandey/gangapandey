@@ -7,7 +7,7 @@
 
 - 💞️ I’m looking to collaborate on **live projects.**
 
-- 👯 I’m interested in **Web development.**
+- 👯 I’m interested in **Software Quality Assurance and Test Automations.**
 
 - 📫 How to reach me **igangapandey@gmail.com**
 
