@@ -7,7 +7,7 @@
 
 - 💞️ I’m looking to collaborate on **live projects.**
 
-- 👯 I’m interested in **Software Quality Assurance and Test Automations.**
+- 👯 I’m interested in **Software Quality Assurance and Test Automation.**
 
 - 📫 How to reach me **igangapandey@gmail.com**
 
@@ -18,8 +18,7 @@
 
 
 
-<!-- Contributions, Current Streak, Longest streak -->
-<img align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=gangapandey&theme=dark&locale=en" alt="Ganga Pandey" />
+
 
 
 
